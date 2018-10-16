@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 16B3-A669
+
+ Directory of C:\Users\DEP00010\Desktop\MyProject
+
+09/10/2018  06:55 PM    <DIR>          .
+09/10/2018  06:55 PM    <DIR>          ..
+16/10/2018  10:41 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  113,812,967,424 bytes free
