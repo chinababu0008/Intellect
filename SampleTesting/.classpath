@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/bootstrapconnector.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/JBoss 4.2 Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/jodconverter-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/jodconverter-cli-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/juh.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/jurt-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/unoil-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/bboss-jodconverter-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/ridl-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/itextpdf-5.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DEP00010/Downloads/Main/aspose.words.jdk16-7.0.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
